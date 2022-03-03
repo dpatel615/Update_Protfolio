@@ -65,7 +65,7 @@ a.navbar-brand {
 .card{ 
     position: absolute;
     left: 0;
-    top: 230%;
+    top:210%;
     right: 70%;
     bottom: 0;
     margin: auto;
@@ -76,7 +76,7 @@ a.navbar-brand {
 .card-1{ 
     position: absolute;
     left: 0;
-    top: 230%;
+    top: 210%;
     right: 20%;
     bottom: 0;
     margin: auto;

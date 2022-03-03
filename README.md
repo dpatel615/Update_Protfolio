@@ -24,6 +24,7 @@ Acceptance Criteria
 * THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Mock 
+https://github.com/dpatel615/Update_Protfolio/blob/main/Assests/portfolio.png
 
 ## Deployed Application Link
 

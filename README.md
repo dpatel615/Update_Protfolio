@@ -27,6 +27,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Deployed Application Link
 
-The deployed GitHub page for this web application can be found: https://dpatel615.github.io/Update_portfolio
+The deployed GitHub page for this web application can be found:  https://dpatel615.github.io/Update_Protfolio
 
 The GitHub repository for this web application can be found: https://github.com/dpatel615/Update_Protfolio

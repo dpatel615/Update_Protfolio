@@ -1,8 +1,9 @@
+/* style the body with fornt familt and font size */
 body {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
   }
-  
+  /* style heading */
   h1,
   h2,
   h4,
@@ -11,6 +12,7 @@ body {
     font-weight: 700;
 
 }
+/* navbar link styling text color*/
 .navbar{
     border-bottom:3px solid #0D6EFD;
 }
@@ -62,7 +64,8 @@ a.navbar-brand {
     height: max-content;
     background: pink;
 }
-.card{ 
+/* styling the text on picture in the work experience section */
+.card { 
     position: absolute;
     left: 0;
     top:210%;

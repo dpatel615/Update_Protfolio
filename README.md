@@ -1,30 +1,20 @@
 # Update_Protfolio
 
-## User Story
+## Description
 
-* AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-Acceptance Criteria
+This is my portfolio to showcase a little bit about me, some of my projects, my resume, and how to contact me.
 
 ## critical requirements necessary
 
-* GIVEN I need to sample a potential employee's previous work
-* WHEN I load their portfolio
-* THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-* WHEN I click one of the links in the navigation
-* THEN the UI scrolls to the corresponding section
-* WHEN I click on the link to the section about their work
-* THEN the UI scrolls to a section with titled images of the developer's applications
-* WHEN I am presented with the developer's first application
-* THEN that application's image should be larger in size than the others
-* WHEN I click on the images of the applications
-* THEN I am taken to that deployed application
-* WHEN I resize the page or view the site on various screens and devices
-* THEN I am presented with a responsive layout that adapts to my viewport
+  * code contain "Drusti patel" as name and links for about me, work, contact on header, Resume
+  * There is my picture below the heading
+  * There is the section "About me" which contain the description where I am form and some detail about my education
+  * After "About me" There is section for work-Experiences with some images with title
+  * Then, Contact information with tell my Email, phone, place, github, and linkdenin.
+  * Page also allow to scroll down and up and on all screens(tablet,phone) you can see properly
 
 ## Mock 
-https://github.com/dpatel615/Update_Protfolio/blob/main/Assests/portfolio.png
+
 
 ## Deployed Application Link
 

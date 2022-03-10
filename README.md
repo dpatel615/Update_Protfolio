@@ -14,7 +14,7 @@ This is my portfolio to showcase a little bit about me, some of my projects, my 
   * Page also allow to scroll down and up and on all screens(tablet,phone) you can see properly
 
 ## Mock 
-
+https://github.com/dpatel615/Update_Protfolio/blob/main/Assests/updatepic.jpg
 
 ## Deployed Application Link
 

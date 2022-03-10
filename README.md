@@ -4,6 +4,11 @@
 
 This is my portfolio to showcase a little bit about me, some of my projects, my resume, and how to contact me.
 
+## code uses
+* HTML
+* CSS
+* BootStrap for styling page in html
+
 ## critical requirements necessary
 
   * code contain "Drusti patel" as name and links for about me, work, contact on header, Resume

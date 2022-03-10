@@ -4,6 +4,11 @@
 
 This is my portfolio to showcase a little bit about me, some of my projects, my resume, and how to contact me.
 
+## code uses
+* HTML
+* CSS
+* BootStrap for styling page in html
+
 ## critical requirements necessary
 
   * code contain "Drusti patel" as name and links for about me, work, contact on header, Resume
@@ -14,7 +19,7 @@ This is my portfolio to showcase a little bit about me, some of my projects, my 
   * Page also allow to scroll down and up and on all screens(tablet,phone) you can see properly
 
 ## Mock 
-
+https://github.com/dpatel615/Update_Protfolio/blob/main/Assests/updatepic.jpg
 
 ## Deployed Application Link
 
